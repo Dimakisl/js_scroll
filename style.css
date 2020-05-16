@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+}
+
+.button{
+	padding:10px 20px;
+	background-color: tomato;
+	border: none;
+	color: $fff;
+}
+.button-block{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+}
+
+.section{
+	height: 100vh;
+	background-color: green;
+}
+
+.footer{
+	height: 100vh;
+	background-color:#333;
+}
